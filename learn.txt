@@ -2,3 +2,5 @@ Jetkins
 Docker
 Ansible
 dotnet
+pyhton
+random skills

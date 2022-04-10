@@ -6,3 +6,4 @@ pyhton
 random skills
 learning about lock file
 something 
+git commit

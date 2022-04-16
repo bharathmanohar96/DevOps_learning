@@ -14,3 +14,4 @@ gjbjhgjh
 kdfjghjkgjk
 merge fetch
 ghjghjh
+git conflict

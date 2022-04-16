@@ -3,7 +3,7 @@ Docker
 Ansible
 dotnet
 pyhton
-random ski
+aaple
 learning about lock file
 something 
 git commit
